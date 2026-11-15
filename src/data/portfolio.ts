@@ -18,7 +18,7 @@ export const projects: Project[] = [
     name: "ROTA",
     description: "Gateway local de modelos de IA com chat, streaming e fallback entre provedores.",
     cover: "/images/projects/covers/rota.webp",
-    coverAlt: "Painel do ROTA com indicadores de atividade e diagrama de roteamento",
+    coverAlt: "Gravura de uma raposa em preto e branco sobre fundo magenta",
     tags: ["Python", "FastAPI", "HTTPX", "SQLite", "Rsbuild"],
     status: "Em desenvolvimento",
     details: "O ROTA oferece um endpoint compatível com OpenAI e perfis que definem a ordem dos provedores. O painel reúne chat, configuração de conexões e métricas de uso. As credenciais ficam no chaveiro do sistema.",
