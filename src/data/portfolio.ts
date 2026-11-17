@@ -7,7 +7,7 @@ export const profile = {
   headline: "Software, automação e criação visual.",
   description: "Desenvolvimento Full Stack, ferramentas e integrações com IA. Também trabalho com edição de foto, vídeo e motion design.",
   email: null as string | null,
-  github: "https://github.com/Apoloundifinied",
+  github: "https://github.com/robsondevanything",
   linkedin: null as string | null,
 };
 
@@ -25,7 +25,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "TypeScript", "Supabase", "GSAP", "UI/UX"],
     status: "Produção",
     details: "O freelancer compartilha uma entrega por link. O cliente pede ajustes e aprova a versão certa sem criar uma conta. A landing demonstra esse fluxo com uma prévia 3D interativa e transições em GSAP.",
-    repository: "https://github.com/Apoloundifinied/aprova",
+    repository: "https://github.com/robsondevanything/aprova",
     demo: "https://aprova-wine.vercel.app/conheca",
   },
   {
@@ -41,7 +41,7 @@ export const projects: Project[] = [
     tags: ["TypeScript", "Node.js", "MCP", "Zod"],
     status: "Produção",
     details: "O servidor MCP lê trechos de um repositório autorizado e gera um protocolo com hipótese, evidências e critério de sucesso. A demo pública permite revisar e exportar o rascunho do caso Aprova versus aprovação por chat. O teste com participantes está pendente.",
-    repository: "https://github.com/Apoloundifinied/blind-mcp",
+    repository: "https://github.com/robsondevanything/blind-mcp",
     demo: "https://blind-mcp.vercel.app/",
   },
   {
@@ -101,7 +101,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "TypeScript", "UI bilíngue", "Fluxo em etapas"],
     status: "Em desenvolvimento",
     details: "A página pública apresenta a proposta de testes em rodadas, explica o fluxo de participação e recebe inscrições na lista de espera. O repositório documenta as regras, os estados e as etapas planejadas.",
-    repository: "https://github.com/Apoloundifinied/DOZEMA",
+    repository: "https://github.com/robsondevanything/DOZEMA",
     demo: "https://dozema.vercel.app/pt-BR",
   },
   {
@@ -115,7 +115,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "TypeScript", "UX de busca", "Formulários"],
     status: "Protótipo",
     details: "A interface ajuda concurseiros a verificar se a cidade está coberta e entrar na lista de espera. O repositório documenta o autocomplete de municípios, a página de cobertura por estado e o fluxo de confirmação por e-mail.",
-    repository: "https://github.com/Apoloundifinied/Oxty-Inside",
+    repository: "https://github.com/robsondevanything/Oxty-Inside",
   },
 ];
 

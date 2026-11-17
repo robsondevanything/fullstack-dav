@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-export const siteUrl = "https://apoloundifinied.github.io/fullstack-dav/";
+export const siteUrl = "https://robsondevanything.github.io/fullstack-dav/";
 export function pageMetadata(title: string, description: string, path = ""): Metadata {
   const url = new URL(path, siteUrl).href;
   const images = [{ url: `${siteUrl}images/social-preview.png`, width: 1200, height: 630, alt: "Robson — Full Stack, IA e Automação" }];

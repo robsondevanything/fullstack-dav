@@ -7,7 +7,7 @@ export function Hero() {
         <p className="hero-description">
           Desenvolvedor que transforma ideias em software, automações e ferramentas com IA.
         </p>
-        <a className="hero-project-link" href="https://github.com/Apoloundifinied" target="_blank" rel="noreferrer">
+        <a className="hero-project-link" href="https://github.com/robsondevanything" target="_blank" rel="noreferrer">
           Ver projetos no GitHub ↗
         </a>
       </div>
